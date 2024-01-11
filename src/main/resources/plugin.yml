@@ -1,0 +1,4 @@
+name: TrainTicket
+version: '${project.version}'
+main: com.github.beadieststar64.plugins.trainticket.TrainTicket
+api-version: '1.20'
